@@ -5,7 +5,7 @@
       "https://maven.pkg.github.com/sirilla/_"
     ],
     "dependencies": [
-      "org.sirilla::hello:latest.integration"
+      "org.sirilla:hello_3:latest.integration"
     ]
   }
 }
