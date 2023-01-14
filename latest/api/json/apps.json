@@ -1,0 +1,11 @@
+{
+  "hello": {
+    "repositories": [
+      "central",
+      "https://maven.pkg.github.com/sirilla/_"
+    ],
+    "dependencies": [
+      "org.sirilla::hello:latest.integration"
+    ]
+  }
+}
