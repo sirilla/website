@@ -1,11 +1,9 @@
 {
-  "hello": {
-    "repositories": [
-      "central",
-      "https://maven.pkg.github.com/sirilla/_"
-    ],
-    "dependencies": [
-      "org.sirilla:hello_3:latest.integration"
-    ]
-  }
+  "repositories": [
+    "central",
+    "https://sirilla.jfrog.io/artifactory/sirilla-sbt-release"
+  ],
+  "dependencies": [
+    "org.sirilla:hello-application_3:0.0.1"
+  ]
 }
