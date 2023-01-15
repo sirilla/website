@@ -1,9 +1,11 @@
 {
-  "repositories": [
-    "central",
-    "https://sirilla.jfrog.io/artifactory/sirilla-sbt-release"
-  ],
-  "dependencies": [
-    "org.sirilla:hello-application_3:0.0.1"
-  ]
+  "hello": {
+    "repositories": [
+      "central",
+      "https://sirilla.jfrog.io/artifactory/sirilla-sbt-release"
+    ],
+    "dependencies": [
+      "org.sirilla:hello-application_3:0.0.1"
+    ]
+  }
 }
